@@ -1,0 +1,1 @@
+This is a sample text file that contains unsupported characters. There you go, the punctuation characters are not supported according to our specification!

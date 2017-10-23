@@ -1,0 +1,1 @@
+This is a sample text file that does not contain much redundancy with regards to the runs and this affects the compression ratio in a way that may make this algorithm not suitable for compressing files of this nature
