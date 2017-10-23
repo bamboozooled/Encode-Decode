@@ -1,8 +1,6 @@
 #Name: Oluwatimi Owoturo
 #Student Number: 8606957
 #Assignment 3
-#Partners name: Orion Kemp
-#Partners student Number: 8788626
 
 def runLength_Encode(f1,output):
     file1L = f1.read()
